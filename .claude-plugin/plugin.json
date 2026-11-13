@@ -1,10 +1,12 @@
 {
   "name": "menopause-strength-starter",
+  "displayName": "Menopause Strength Training Coach: Free Starter",
   "version": "1.0.0",
-  "description": "Menopause Strength Training Coach: Free Starter. An interactive introduction to how the body changes through the menopause transition, why strength training becomes the priority, and how to get started safely. Educational fitness coaching only, not medical advice.",
+  "description": "An interactive introduction to how the body changes through the menopause transition, why strength training becomes the priority, and how to get started safely. Created by a certified personal trainer with about 20 years of experience and his client, who has been through menopause herself. Educational fitness coaching only, not medical advice.",
   "author": {
     "name": "Kev-Dani"
   },
+  "repository": "https://github.com/Kev-Dani/menopause-strength-starter",
   "keywords": [
     "menopause",
     "perimenopause",
