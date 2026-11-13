@@ -13,7 +13,21 @@ The skill is evidence-based and informed by the experience of two real people: K
 
 ## How to use it
 
-Install the plugin, start a new chat, and ask something like "I'm in perimenopause and new to strength training. Where do I start?"
+Install the plugin, start a new chat, and try one of these:
+
+- "I'm in perimenopause and new to strength training. Where do I start?"
+- "Why has the exercise routine that worked in my thirties stopped working?"
+- "What is happening to my muscle and bone during menopause?"
+
+The coach will ask a few questions about you, then explain what applies to your situation.
+
+## Data and privacy
+
+This plugin is a set of written instructions only. It does not collect, store or send any data, and it does not connect to any outside service.
+
+## Troubleshooting and support
+
+If the coach does not respond as described, start a new chat and check that the plugin is enabled. For questions or problems, open an issue at https://github.com/Kev-Dani/menopause-strength-starter/issues
 
 ## Please note
 
